@@ -1,0 +1,34 @@
+
+----------------------------------------------------
+*****Current time and date*****
+Fri Feb  2 12:00:01 MST 2018
+
+*****Process ID Information*****
+root      1545  0.0  0.0  36080  3024 ?        Ss   11:02   0:00 /usr/sbin/cron -f
+root      3853  0.0  0.0  59384  2980 ?        S    12:00   0:00 /usr/sbin/CRON -f
+andrewk+  3854  0.0  0.0   4512   760 ?        Ss   12:00   0:00 /bin/sh -c /home/andrewkuklinski/ecen5013/crontimertask.sh >> ~/ecen5013/hw2q4.txt
+andrewk+  3855  0.0  0.0   4512   704 ?        S    12:00   0:00 /bin/sh /home/andrewkuklinski/ecen5013/crontimertask.sh
+andrewk+  3858  0.0  0.0  21296   984 ?        S    12:00   0:00 grep -i cron
+
+*****User ID Information******
+uid=1000(andrewkuklinski) gid=1000(andrewkuklinski) groups=1000(andrewkuklinski),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),113(lpadmin),128(sambashare),999(vboxsf)
+
+in place of the system call
+----------------------------------------------------
+
+----------------------------------------------------
+*****Current time and date*****
+Fri Feb  2 12:10:01 MST 2018
+
+*****Process ID Information*****
+root      1545  0.0  0.0  36080  3024 ?        Ss   11:02   0:00 /usr/sbin/cron -f
+root      3933  0.0  0.0  59384  2980 ?        S    12:10   0:00 /usr/sbin/CRON -f
+andrewk+  3934  0.0  0.0   4512   712 ?        Ss   12:10   0:00 /bin/sh -c /home/andrewkuklinski/ecen5013/crontimertask.sh >> ~/ecen5013/hw2q4.txt
+andrewk+  3935  0.0  0.0   4512   712 ?        S    12:10   0:00 /bin/sh /home/andrewkuklinski/ecen5013/crontimertask.sh
+andrewk+  3938  0.0  0.0  21296   940 ?        S    12:10   0:00 grep -i cron
+
+*****User ID Information******
+uid=1000(andrewkuklinski) gid=1000(andrewkuklinski) groups=1000(andrewkuklinski),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),113(lpadmin),128(sambashare),999(vboxsf)
+
+in place of the system call
+----------------------------------------------------
